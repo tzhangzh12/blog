@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Tianqi Zhang, a Spanish/ Catalan/ English to Mandarin Chinese translator and interpreter with more than 10 years of professional experience. Currently I am based in Barcelona.
+I am Tianqi Zhang, a <b>Spanish/ Catalan/ English</b> to <b>Mandarin Chinese</b> <b>translator</b> and <b>interpreter</b> with more than 10 years of professional experience. Currently I am based in <b>Barcelona</b>.
 
 I have offered various linguistic services such as translation, community interpreting, consecutive and simultaneous interpreting, court interpreting, proofreading, localization, machine translation post-editing and terminological support for clients in Europe and Asia.
 
