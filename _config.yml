@@ -21,7 +21,7 @@
 title: TZ Translate
 email: tzhangzh12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Spanish/ Catalan/ English to Mandarin Chinese specialized translator/interpreter living in Barcelona.
+  TZ Translate specialized in Spanish/ Catalan/ English to Chinese translation.
 permalink: /:categories
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tztranslate.com/" # the base hostname & protocol for your site, e.g. http://example.com
