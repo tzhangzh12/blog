@@ -12,9 +12,7 @@ I have collaborated with the important translation agencies in tourism, commerci
 
 I have specialized training in Translation Technologies and I am fluent using CAT tools such as SDL Trados 2017, memoQ 8.4, OmegaT, Memsource and Matecat. I am also an experienced post-editor of machine translation and web and application localization.
 
-Apart from professional practice as a linguist, I am a predoctoral researcher on the use of machine translation and the application of
-artificial intelligence in sports communication. I am active in participating in international congresses in language industry and I
-have several communications in international congresses and publications in academic journals.
+Apart from professional practice as a linguist, I am a predoctoral researcher on the use of machine translation and the application of artificial intelligence in sports communication. I am active in participating in international congresses in language industry and I have several communications in international congresses and publications in academic journals.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
