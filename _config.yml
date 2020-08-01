@@ -28,6 +28,16 @@ url: "https://tztranslate.com/" # the base hostname & protocol for your site, e.
 twitter_username: tzhangzh12
 github_username:  tzhangzh12
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Tianqi Zhang
+linkedin_username: tianqizhangtranslator
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "Tianqi Zhang" 
+
 # Build settings
 # Removed minima theme as it is now a regular theme.
 # theme: minima
