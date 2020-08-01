@@ -1,6 +1,26 @@
 ---
 layout: post
-title:  "My first post"
+title:  "Something about me"
 date:   2020-08-01 11:25:39 +0200
 categories: jekyll update
 ---
+I am Tianqi Zhang, a Spanish/ Catalan/ English to Mandarin Chinese translator and interpreter with more than 10 years of professional experience. Currently I am based in Barcelona.
+
+I have offered various linguistic services such as translation,
+community interpreting, consecutive and simultaneous interpreting, court interpreting, proofreading, localization, machine translation post-editing and terminological support for
+clients in Europe and Asia.
+
+I have collaborated with the important translation agencies in
+tourism, commercial, fashion, sports, IT, video games, communication and medical projects.
+
+I have specialized training in Translation Technologies and I am fluent
+using CAT tools such as SDL Trados 2017, memoQ 8.4, OmegaT, Memsource
+and Matecat. I am also an experienced post-editor of machine translation
+and web and application localization.
+
+Apart from professional practice as a linguist, I am a predoctoral
+researcher on the use of machine translation and the application of
+artificial intelligence in sports communication. I am active in
+participating in international congresses in language industry and I
+have several communications in international congresses and publications
+in academic journals.
