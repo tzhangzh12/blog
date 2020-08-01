@@ -23,7 +23,7 @@ email: tzhangzh12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Spanish/ Catalan/ English to Mandarin Chinese specialized translator/interpreter living in Barcelona.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tztranslate.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tzhangzh12
 github_username:  tzhangzh12
 
