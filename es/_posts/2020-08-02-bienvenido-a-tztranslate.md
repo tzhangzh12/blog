@@ -2,6 +2,7 @@
 layout: post
 author: Tianqi
 title:  "¡Bienvenido/a a TZ Translate!"
+description: Servicio de traducción especializada de español/catalán/inglés al chino.
 date:   2020-08-01 23:25:39 +0200
 category: business
 lang: es
