@@ -2,6 +2,7 @@
 layout: post
 author: Tianqi
 title:  "Tradumatica 翻译技术暑期培训班"
+description: 西班牙巴塞罗那自治大学开设的面向专业口笔译员的翻译技术培训课程
 date:   2020-08-01 11:25:39 +0200
 categories: blog tradumatica-summer-school
 lang: zh-CN
