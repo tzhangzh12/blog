@@ -16,4 +16,6 @@ Apart from professional practice as a linguist, I am also member of the [<b>Trad
 
 I am an associate professor at [<b>Faculty of Translation and Interpreting</b>](https://www.uab.cat/web/facultat-de-traduccio-i-d-interpretacio-1345711433624.html) of Universitat Autònoma de Barcelona where I teach <b>Translation Technologies</b> and <b>Programming Basics for Translators</b> in two Master's Programs: [Translation and Intercultural Studies](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1345740337031), as well as [Tradumatics: Translation Technologies](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1345695508762).
 
-
+<div style="text-align:center">
+<img src="/assets/TianqiZhang.jpg" alt="drawing" width="200"/>
+</div>
