@@ -2,7 +2,7 @@
 layout: post
 author: Tianqi
 title:  "¡Bienvenido/a a TZ Translate!"
-description: Servicio de traducción especializada de español/catalán/inglés al chino.
+description: Servicio de traducción especializada de español/catalán/inglés al chino. TZ Translate es un espacio sobre la traducción y la industria del lenguaje. Puedes encontrar información sobre prácticas profesionales de traducción, investigación científica y experiencias docentes en universidades sobre tecnologías de traducción y automatización de la traducción.
 date:   2020-08-01 23:25:39 +0200
 category: business
 lang: es

@@ -2,7 +2,7 @@
 layout: post
 author: Tianqi
 title:  "欢迎来到TZ Translate！"
-description: 西班牙语/加泰罗尼亚语/英语到中文/汉语的专业翻译服务；笔译；口译
+description: 西班牙语/加泰罗尼亚语/英语到中文/汉语的专业翻译服务。TZ Translate是有关翻译和语言行业的空间。您可以找到有关专业翻译实践、翻译研究以及有关翻译技术和翻译自动化的教学经验的信息。
 date:   2020-08-01 23:25:39 +0200
 category: business
 lang: zh-CN
